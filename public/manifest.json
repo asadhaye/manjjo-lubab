@@ -1,0 +1,36 @@
+{
+  "name": "Manjjo - Best Fast Food in Lahore",
+  "short_name": "Manjjo",
+  "description": "Cravings Met? Order the best fast food in Lahore from Manjjo.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FFAE42",
+  "theme_color": "#FFAE42",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/images/favicon/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/images/favicon/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/images/favicon/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/images/favicon/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

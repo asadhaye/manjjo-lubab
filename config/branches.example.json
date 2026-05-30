@@ -1,0 +1,15 @@
+[
+  {
+    "id": "example-branch-1",
+    "name": "Example Branch 1",
+    "address": "123 Example Street, City, Country",
+    "area": "Example Area",
+    "photo": "/images/placeholder.jpg"
+  },
+  {
+    "id": "example-branch-2",
+    "name": "Example Branch 2",
+    "address": "456 Another Road, City, Country",
+    "area": "Another Area"
+  }
+]
